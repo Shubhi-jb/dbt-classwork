@@ -12,3 +12,4 @@ select
     sum(total_spend) as total_revenue
 from raw_customers
 group by country
+
